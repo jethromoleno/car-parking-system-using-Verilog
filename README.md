@@ -33,6 +33,8 @@ Typical states used:
 - Verilog HDL
 - ModelSim / Vivado / Icarus Verilog
 
+Video Demo Link here: https://www.youtube.com/watch?v=Ikq_04IKjJQ&t=2s
+
 👨‍💻 Author
 
 - Jethro P. Moleno
