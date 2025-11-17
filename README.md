@@ -1,8 +1,8 @@
-🚗 Car Parking System using Verilog (FSM-Based Digital Design)
+<h1>🚗 Car Parking System using Verilog (FSM-Based Digital Design)</h1>
 
 A digital logic project implemented using Verilog HDL, demonstrating the use of Finite State Machines (FSM), counters, and combinational/sequential logic to build an automated car parking gate control system.
 
-📌 Project Overview
+<h2>📌 Project Overview</h2>
 
 This project simulates a smart parking system with the following features:
 
@@ -11,7 +11,7 @@ This project simulates a smart parking system with the following features:
 - Includes timing logic, safety interlocks, and parking capacity control
 - This project was verified using simulation tools like ModelSim.
 
-⚙️ System Features
+<h2>⚙️ System Features</h2>
 
 - 🚘 Car entry detection
 - 🚙 Car exit detection
@@ -20,7 +20,7 @@ This project simulates a smart parking system with the following features:
 - 🧪 Complete testbench for simulation
 - 🧠 Finite State Machine (FSM)
 
-Typical states used:
+<h2>Typical states used:</h2>
 
 - IDLE
 - WAIT_FOR_PASSWORD
@@ -28,14 +28,14 @@ Typical states used:
 - DENIED_PASS
 - STOP
 
-📘 Tools Used
+<h2>📘 Tools Used</h2>
 
 - Verilog HDL
 - ModelSim / Vivado / Icarus Verilog
 
-Video Demo Link here: https://www.youtube.com/watch?v=Ikq_04IKjJQ&t=2s
+<h2>Video Demo Link here:</h2> https://www.youtube.com/watch?v=Ikq_04IKjJQ&t=2s
 
-👨‍💻 Author
+<h2>👨‍💻 Author</h2>
 
 - Jethro P. Moleno
 - Computer Engineering – Mapúa University
