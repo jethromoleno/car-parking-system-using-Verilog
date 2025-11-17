@@ -2,6 +2,9 @@
 
 A digital logic project implemented using Verilog HDL, demonstrating the use of Finite State Machines (FSM), counters, and combinational/sequential logic to build an automated car parking gate control system.
 
+Youtube Video Demo Link:  [![YouTube Video Demo](https://img.shields.io/badge/YouTube-Video-red?style=flat&logo=youtube)](https://www.youtube.com/watch?v=Ikq_04IKjJQ&t=2s)
+
+
 <h2>📌 Project Overview</h2>
 
 This project simulates a smart parking system with the following features:
@@ -32,8 +35,6 @@ This project simulates a smart parking system with the following features:
 
 - Verilog HDL
 - ModelSim / Vivado / Icarus Verilog
-
-<h2>Video Demo Link here:</h2> https://www.youtube.com/watch?v=Ikq_04IKjJQ&t=2s
 
 <h2>👨‍💻 Author</h2>
 
