@@ -16,7 +16,6 @@ This project simulates a smart parking system with the following features:
 - 🚘 Car entry detection
 - 🚙 Car exit detection
 - 🚧 Gate control via FSM
-- 🧮 Parking slot counter
 - ⏱️ Timer-based open/close sequence
 - 🧪 Complete testbench for simulation
 - 🧠 Finite State Machine (FSM)
