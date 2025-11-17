@@ -4,6 +4,9 @@ A digital logic project implemented using Verilog HDL, demonstrating the use of 
 
 Youtube Video Demo Link:  [![YouTube Video Demo](https://img.shields.io/badge/YouTube-Video-red?style=flat&logo=youtube)](https://www.youtube.com/watch?v=Ikq_04IKjJQ&t=2s)
 
+Documentation: [![Documentation](https://img.shields.io/badge/documentation-link-brightgreen?style=flat)](https://github.com/jethromoleno/car-parking-system-using-Verilog/blob/main/docs/Car%20Parking%20System%20using%20Verilog.pdf)
+
+
 
 <h2>📌 Project Overview</h2>
 
