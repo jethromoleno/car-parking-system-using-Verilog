@@ -36,8 +36,7 @@ Typical states used:
 
 👨‍💻 Author
 
-Jethro P. Moleno
-Computer Engineering – Mapúa University
-Email: jethromoleno@gmail.com
-
-LinkedIn: www.linkedin.com/in/jethromoleno
+- Jethro P. Moleno
+- Computer Engineering – Mapúa University
+- Email: jethromoleno@gmail.com
+- LinkedIn: www.linkedin.com/in/jethromoleno
