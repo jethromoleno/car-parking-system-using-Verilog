@@ -37,7 +37,7 @@ This project simulates a smart parking system with the following features:
 <h2>📘 Tools Used</h2>
 
 - Verilog HDL
-- ModelSim / Vivado / Icarus Verilog
+- ModelSim Verilog
 
 <h2>👨‍💻 Author</h2>
 
